@@ -21,7 +21,7 @@ AbstractKnowledgeGraph, a systematic knowledge graph that concentrate on abstrac
 
 2、抽象知识图谱的构成  
 1）抽象知识图谱体系架构  
-![image](https://github.com/liuhuanyong/AbstractKnowledgeGraph/blob/master/img/intro.png)  
+![image](https://github.com/SmartCommunitySZ/AbstractKnowledgeGraph/blob/master/img/intro.png)  
 
 抽象知识图谱包括抽象实体知识图谱和抽象事件图谱两个组成部分，抽象实体知识图谱主要关注静态的实体性知识，抽象事件图谱则关注事件自身的抽象以及事件与事件之间(事理)的知识。抽象事件图谱需要抽象实体图谱作为有效载体，并加以支配；抽象实体图谱以抽象事件图谱作为有效承载，并为其所利用；抽象知识图谱是不同抽象层级的实体事件库，核心在于对事实实例的抽取以及抽象层级的概括两个方面，层级知识体系以及明确的事实实例是抽象的两个重要基础。基于事实实例的抽象是人脑对知识总结概括的过程。
 
@@ -69,13 +69,13 @@ HowNet是董振东与董强两个老师研制出来的一款中文版的wordnet�
 
 1，名词抽象路径
 
-![image](https://github.com/liuhuanyong/AbstractKnowledgeGraph/blob/master/img/noun.png)
+![image](https://github.com/SmartCommunitySZ/AbstractKnowledgeGraph/blob/master/img/noun.png)
 2，状态词抽象路径
 
-![image](https://github.com/liuhuanyong/AbstractKnowledgeGraph/blob/master/img/adj.png)
+![image](https://github.com/SmartCommunitySZ/AbstractKnowledgeGraph/blob/master/img/adj.png)
 3，动作抽象路径
 
-![image](https://github.com/liuhuanyong/AbstractKnowledgeGraph/blob/master/img/verb.png)
+![image](https://github.com/SmartCommunitySZ/AbstractKnowledgeGraph/blob/master/img/verb.png)
 
 # 总结
 1，本项目提出了一个抽象知识图谱的项目，目的是对知识抽象与泛化提供一个思路并初步实践。  
@@ -85,10 +85,3 @@ HowNet是董振东与董强两个老师研制出来的一款中文版的wordnet�
 5，知识图谱体系的再认识。知识图谱包括知识词汇表的挖掘，知识体系的挖掘，知识事实的挖掘三个部分内容，三个部分内容按照先后顺序排序。知识词汇表挖掘负责对知识中的短语名称、组合名称进行挖掘，形成符号基础。知识体系的挖掘，指知识概念层级的挖掘，更多的集中在抽象层级的挖掘；知识事实的挖掘，是目前的实体抽取与实体关系抽取，这也是目前知识图谱所处的阶段。    
 6，本项目提出了一个较为理想的目标，但技术实现起来仍然还需要一个体系更为健全、技术更为先进的方法来处理。后续这个项目可以长期维护。  
 
-If any question about the project or me ,see https://liuhuanyong.github.io/
-
-如有自然语言处理、[知识图谱、事理图谱]、社会计算、语言资源建设等问题或合作，如果对事件知识库有兴趣的落地或者研究，可联系我：    
-1、我的github项目介绍：https://liuhuanyong.github.io    
-2、我的csdn博客：https://blog.csdn.net/lhy2014    
-3、about me:刘焕勇，中国科学院软件研究所，lhy_in_blcu@126.com  
-4、懂语言者得天下，得语言者分天下，掌语言逻辑者，游得天下。  
